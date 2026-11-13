@@ -4,9 +4,14 @@
 和朋友在同一张谱面上实时竞速：建房 / 换谱 / 准备 / 倒计时 / 实时 XPerfect 排行 / 结算排名，房主还能移交房主、结束本局。
 
 > 当前版本：**v0.6.0** ｜ 仅支持 Windows 版 ADOFAI + UnityModManager
+> 
+## 反作弊和未授权铺面上传的审核
+棍母反作弊和审核
 
 ## QQ交流群
+
 搜索1135827590 小曹的冰冰冰小窝
+
 ## 下载
 
 到 [Releases](https://github.com/shixiaocaoya/Adofai-With_you/releases/latest) 下载最新的 `With-you-x.y.z.zip`。、
